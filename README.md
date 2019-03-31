@@ -7,3 +7,8 @@ Batch install instructions to install every google font ever.
 4. Type in `xcopy *.ttf DESTINATION /s` where `DESTINATION` is another directory on your machine. Do not use the directory you are already in, since it will mess up the next step.
 5. Fantastic! All your ttf files are now on their own inside their own folder, but we still can't drag and drop install them. We must now close down Command Prompt and bring up your explorer window once again. In the search bar, type `NOT kind:folder`. You should now see a list of ttf files! Open another explorer window to `Control Panel\All Control Panel Items\Fonts` and then drag all of the fonts into that window.
 6. Profit!
+
+
+References: 
+[https://superuser.com/questions/1280925/remove-subfolders-but-keep-files-in-windows-for-google-photos](https://superuser.com/questions/1280925/remove-subfolders-but-keep-files-in-windows-for-google-photos)
+[https://www.pcworld.com/article/2105149/gather-similar-files-from-multiple-folders-and-copy-them-in-one-simple-step.html](https://www.pcworld.com/article/2105149/gather-similar-files-from-multiple-folders-and-copy-them-in-one-simple-step.html)
