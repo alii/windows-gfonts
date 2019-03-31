@@ -1,4 +1,4 @@
-# windows-gfonts
+# Windows Google Font batch install method.
 Batch install instructions to install every google font ever.
 
 1. Download the entire Google Font repo by going [here](https://github.com/google/fonts) and either cloning with `git clone` or downloading as a Zip file.
@@ -9,6 +9,7 @@ Batch install instructions to install every google font ever.
 6. Profit!
 
 
-References: 
+### References:
 [https://superuser.com/questions/1280925/remove-subfolders-but-keep-files-in-windows-for-google-photos](https://superuser.com/questions/1280925/remove-subfolders-but-keep-files-in-windows-for-google-photos)
+
 [https://www.pcworld.com/article/2105149/gather-similar-files-from-multiple-folders-and-copy-them-in-one-simple-step.html](https://www.pcworld.com/article/2105149/gather-similar-files-from-multiple-folders-and-copy-them-in-one-simple-step.html)
